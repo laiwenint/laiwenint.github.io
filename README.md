@@ -55,5 +55,5 @@
 ***
 
 ### 每日大赛主题大赛 | 创意无界，主题无限  
-### 👉 [https://www.mrdszt.cloud](https://www.mrdszt.cloud)
+# 👉 [https://www.mrdszt.cloud](https://www.mrdszt.cloud)
 来 **[每日大赛主题大赛](https://www.mrdszt.cloud)**，感受不一样的竞技风潮。每场比赛都有独特主题与创意玩法，融合艺术、科技与游戏的多元魅力。在这里，竞技不仅是比拼，更是一场创意盛宴。
